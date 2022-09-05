@@ -40,3 +40,7 @@
 
     어댑터
     SimpleCursorAdapter: 데이터베이스와 화면 연결
+
+    연동방법
+    1) SQLiteOpenHelper
+    2) openOnCreateDataBase()
