@@ -1,0 +1,11 @@
+-- src
+    |-- config
+    |-- controllers
+    |-- database
+    |-- errors
+    |-- middlewares
+    |-- migrations
+    |-- models
+    |-- routes
+    |-- services
+    `-- uitls
